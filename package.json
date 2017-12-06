@@ -1,0 +1,21 @@
+{
+  "name": "ember-template-lint-plugin-peopleconnect",
+  "version": "0.0.0",
+  "description": "PeopleConnect shareable ember-template-lint plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peopleconnectus/ember-template-lint-plugin-peopleconnect.git"
+  },
+  "keywords": [
+    "hbs",
+    "handlebars",
+    "htmlbars"
+  ],
+  "author": "Kelly Selden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peopleconnectus/ember-template-lint-plugin-peopleconnect/issues"
+  },
+  "homepage": "https://github.com/peopleconnectus/ember-template-lint-plugin-peopleconnect#readme"
+}

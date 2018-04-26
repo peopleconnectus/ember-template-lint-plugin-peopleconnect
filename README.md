@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/ember-template-lint-plugin-peopleconnect.svg)](https://badge.fury.io/js/ember-template-lint-plugin-peopleconnect)
 
-PeopleConnect shareable [ember-template-lint](https://github.com/ember-template-lint/ember-template-lint) plugin
+[PeopleConnect](http://peopleconnect.us/) shareable [ember-template-lint](https://github.com/ember-template-lint/ember-template-lint) plugin
 
 ### Installation
 

@@ -8,7 +8,7 @@
 
 ```
 npm install --save-dev ember-template-lint-plugin-peopleconnect
-ember install ember-cli-template-lint
+ember install ember-template-lint
 ```
 
 Then inside of your newly generated `/.template-lintrc.js`:
